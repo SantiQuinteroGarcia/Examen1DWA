@@ -73,3 +73,48 @@ a:hover{
     width: 492px;
     height: 400px;
 }
+
+.item-5{
+    z-index: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    text-align: center;
+    width: 430px;
+    margin: 120px 285px;
+}
+
+.nav2{
+    background-color: black;
+    height: 50px;
+}
+
+.colorwhite, .day, .dress{
+    color: white;
+    margin-top: 15px;
+}
+
+.day{
+    float: left;
+}
+
+.dress{
+    float: right;
+}
+
+.item-6{
+    z-index: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    text-align: center;
+    width: 430px;
+    margin: 120px 285px;
+}
+
+h1{
+    color: white;
+    font-size: 92;
+}
