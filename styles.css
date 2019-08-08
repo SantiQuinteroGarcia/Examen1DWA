@@ -4,3 +4,31 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #BDBDBD;
+}
+
+.title{
+    color: white;
+    text-align: end;
+    margin-right: 100px;
+}
+
+.nav{
+    text-align: center;
+}
+
+a{
+    margin: 0px 10px;
+    text-decoration: none;
+    color: #424242;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.container1{
+    display: grid;
+    grid-auto-flow: column;
+}
