@@ -30,7 +30,7 @@ a:hover{
 
 .main{
     margin-right: 100px;
-    margin-left: 30px;
+    margin-left: 400px;
 }
 
 .container1{
@@ -111,10 +111,10 @@ a:hover{
     grid-row-end: 1;
     text-align: center;
     width: 430px;
-    margin: 125px 285px;
+    margin: 17px 255px;
 }
 
 h1{
     color: white;
-    font-size: 132;
+    font-size: 100px;
 }
